@@ -1,0 +1,70 @@
+.contactForm {
+  margin: 0 auto;
+  display: block;
+  width: 400px;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 30px;
+  opacity: 90%;
+}
+body {
+  background-image: url(https://img.freepik.com/premium-vector/corner-design-template_759274-174.jpg?w=740);
+}
+h1 {
+  text-align: center;
+}
+p {
+  color: red;
+}
+.sum {
+  margin: 0 auto;
+  display: block;
+  width: 400px;
+  background-color: #ffffff;
+  padding: 40px;
+  color: black;
+  border-radius: 30px;
+  opacity: 90%;
+}
+container {
+  opacity: 1;
+}
+
+.contactForm label {
+  display: block;
+  width: 380px;
+  padding: 5px;
+  margin-top: 30px;
+}
+.radio {
+  text-align: center;
+}
+.contactForm input {
+  display: block;
+  width: 380px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+
+.contactForm select {
+  display: block;
+  width: 400px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+.contactForm button :hover {
+  background-color: red;
+}
+.contactForm button {
+  display: block;
+  margin: 40px auto;
+  width: 150px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid royalblue;
+  color: royalblue;
+  background-color: #ffffff;
+  cursor: pointer;
+}
